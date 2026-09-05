@@ -2,3 +2,4 @@ node_modules/
 dist/
 .env
 npm-debug.log*
+deploy_sexta-main.zip
